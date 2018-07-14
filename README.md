@@ -1,2 +1,2 @@
 # lextiel.github.io
-My Github page repo
+A Single-Page CV/Portfolio showcasing my budding full-stack web development skills
